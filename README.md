@@ -2,7 +2,7 @@
 
 🚀 Estudante de Engenharia de Software  
 💻 Desenvolvedor Backend Java | Spring Boot | APIs REST  
-🤖 Apaixonado por tecnologia, robótica e Realidade Virtual (sonho: mundos como Sword Art Online!)  
+🤖 Apaixonado por tecnologia, robótica e Realidade Virtual   
 
 ### Tecnologias principais
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
