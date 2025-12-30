@@ -12,7 +12,6 @@
 
 ### Projetos em destaque
 - 🏥 [med-voll-api](https://github.com/IgorVoidbot/API.med.voll.git) – API para clínica médica (CRUD completo, validações, JPA)
-- 🏫 [api-escola](https://github.com/IgorVoidbot/api-escola) – Sistema de gerenciamento escolar
 
 📫 Vamos conectar? [LinkedIn](https://www.linkedin.com/in/igor-void) | Email: igordanilomg@gmail.com
 
