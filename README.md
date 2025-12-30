@@ -16,8 +16,4 @@
 
 📫 Vamos conectar? [LinkedIn](https://www.linkedin.com/in/igor-void) | Email: igordanilomg@gmail.com
 
-![Contribuições](https://github-readme-stats.vercel.app/api?username=IgorVoidbot&show_icons=true&theme=dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorVoidbot&layout=compact&theme=dark)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorVoidbot&show_icons=true&theme=dark)
