@@ -11,7 +11,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
 ### Projetos em destaque
-- 🏥 [med-voll-api](https://github.com/IgorVoidbot/med-voll-api) – API para clínica médica (CRUD completo, validações, JPA)
+- 🏥 [med-voll-api](https://github.com/IgorVoidbot/API.med.voll.git) – API para clínica médica (CRUD completo, validações, JPA)
 - 🏫 [api-escola](https://github.com/IgorVoidbot/api-escola) – Sistema de gerenciamento escolar
 
 📫 Vamos conectar? [LinkedIn](https://www.linkedin.com/in/igor-void) | Email: igordanilomg@gmail.com
